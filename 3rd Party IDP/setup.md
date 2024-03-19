@@ -25,6 +25,10 @@ You Can configure Relay State URL and Identity URL in callCenter xml file as sho
   <value>https://launcher.myapps.microsoft.com/api/signin/XXXX</value>
 </items>
 ```
+![1709410945214](https://github.com/sujaicus/aws-connect-scv/assets/82329822/3d37c421-1b59-4c5a-8042-6b021754dd02)
+
+
+
 Ensure to Enable , Third Party IDP and SSO Login Pop Up Window to true in callCenter xml file as show below
 
 ```xml
@@ -39,3 +43,6 @@ Ensure to Enable , Third Party IDP and SSO Login Pop Up Window to true in callCe
   <value>true</value>
 </items>
 ```
+![1709412161917](https://github.com/sujaicus/aws-connect-scv/assets/82329822/229d3f90-4270-4846-8780-ff5cebb87f59)
+
+
