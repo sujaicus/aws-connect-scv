@@ -5,7 +5,7 @@ For example, if your Salesforce org uses Microsoft Azure as an identity provider
   Service Cloud Voice with Amazon Connect
   Service Cloud Voice with Partner Telephony from Amazon Connect
   
-How: In the contact center details page, configure your third-party identity provider.
+**How**: In the contact center details page, configure your third-party identity provider.
 
 When you click Telephony Settings on the contact center details page, the third-party identity provider logs you in to Amazon Connect.
 When an agent sets themselves as available in the Omni-Channel widget, the identity provider logs them in to Amazon Connect behind the scenes.
